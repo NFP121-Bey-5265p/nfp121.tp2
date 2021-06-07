@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FahrenheitCelsius
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ le\ point\ d'entr\u00E9e\ de\ cette\ application\ est\ String\r\n
+comment2.params=f
+comment2.target=float\ fahrenheitEnCelsius(int)
+numComments=3

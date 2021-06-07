@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FahrenheitCelsius
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=f
+comment2.target=float\ fahrenheitEnCelsius(int)
+comment3.params=f
+comment3.target=double\ fahrenheitEnCelsius1(java.lang.String)
+numComments=4
